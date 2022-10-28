@@ -4,8 +4,8 @@ const server = http.createServer((req, res)=>{
     if(req.url === "/"){
         const apiRes = [{
             slackUsername: "peter KE", 
-            backend: Yes, 
-            age: "28", 
+            backend: true, 
+            age: 28, 
             bio: "New node backend developer. Also proficient in Js,React,Ruby and RoR" 
         }]
 
