@@ -1,0 +1,20 @@
+{
+  "name": "hng-stage1",
+  "version": "1.0.0",
+  "description": "Creating a server with node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakbox23/hng-stage1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakbox23/hng-stage1/issues"
+  },
+  "homepage": "https://github.com/blakbox23/hng-stage1#readme"
+}
